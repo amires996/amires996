@@ -1,171 +1,216 @@
-<h1>
-  Hi there! 
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" alt="Waving hand">
-</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=36BCF7&size=25&center=true&vCenter=true&width=600&height=75&lines=I'm+Amir+Mohammad+Eskandari;Software+Developer;Web+Developer;C%23+%7C+Python+%7C+JavaScript;UI%2FUX+Enthusiast" alt="Typing SVG">
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,40:171717,100:0077ff&text=Amir%20Mohammad%20Eskandari&fontColor=ffffff&fontSize=36&fontAlignY=38&desc=Developer%20%7C%20Designer%20%7C%20Problem%20Solver&descAlignY=58&descSize=16&animation=fadeIn" alt="Animated profile header"/>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=amires996&label=Profile%20Views&color=0047AB&style=plastic" alt="Profile Views">
-</p>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=700&height=55&lines=Building+ideas+into+real+projects;C%23+%7C+.NET+%7C+Python+%7C+JavaScript;Web+Development+%7C+UI%2FUX+Design;Always+Learning.+Always+Building." alt="Typing animation"/>
+</a>
 
-<img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" alt="Coding animation">
+<br/>
 
-* 👋 Hi, I'm **Amir Mohammad Eskandari**
-* 💻 I work with **C#, .NET, Python, and JavaScript**
-* 🌐 Interested in **Web Development and Website Design**
-* 🎨 Exploring **UI/UX Design and Figma**
-* 🧩 Building websites with **WordPress and Elementor**
-* 🐧 Working with **Linux and Windows**
-* 🔧 Using **Git and GitHub** for version control
-* 🌱 Currently learning **C, SQL, and database technologies**
-* 🚀 Always learning, building, and improving my skills
+<img src="https://komarev.com/ghpvc/?username=amires996&style=for-the-badge&color=0077ff&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/amires996?style=for-the-badge&color=171717&labelColor=0077ff&logo=github&label=FOLLOWERS" alt="GitHub followers"/>
+<img src="https://img.shields.io/github/stars/amires996?style=for-the-badge&color=171717&labelColor=0077ff&logo=github&label=STARS" alt="GitHub stars"/>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+<img align="right" alt="Coding animation" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+Hi! I'm **Amir Mohammad Eskandari**, a developer passionate about building useful software, creating modern digital experiences, and learning new technologies.
+
+* 💻 Focused on software and web development.
+* ⚙️ Experienced in C# and its development ecosystem.
+* 🐍 Working with Python and JavaScript.
+* 🎨 Interested in UI/UX design and modern interfaces.
+* 🐧 Exploring Linux and open-source technologies.
+* 🚀 Turning ideas into practical projects.
+* 📚 Currently learning C and database technologies.
 
 <br clear="right"/>
 
----
+<div align="center">
 
-## 🌐 Connect with me 🔗
+*"Great things are built one line of code at a time."*
 
-<p align="left">
-  <a href="mailto:eskandari.am68@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://www.instagram.com/amiresk996/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@amiresk996-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://t.me/amires996" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-@amires996-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-  <a href="https://github.com/amires996" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-@amires996-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</p>
-
+</div>
 
 ---
 
-## 🛠️ Skills & Technologies
-
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" alt="Skills animation">
+## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
 
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-  <img alt="C#" src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white">
-</a>
-<a href="https://dotnet.microsoft.com/" target="_blank">
-  <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
-</a>
-<a href="https://www.python.org/" target="_blank">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-</a>
-<a href="https://en.cppreference.com/w/c" target="_blank">
-  <img alt="C - Learning" src="https://img.shields.io/badge/C-Learning-A8B9CC?style=for-the-badge&logo=c&logoColor=black">
-</a>
+<div align="center">
 
-### 🌐 Web Development
+<img src="https://skillicons.dev/icons?i=cs,python,js,c,html,css&perline=6" alt="Programming languages"/>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-</a>
-<a href="https://wordpress.org/" target="_blank">
-  <img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
-</a>
-<a href="https://elementor.com/" target="_blank">
-  <img alt="Elementor" src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white">
-</a>
+</div>
 
-### 🎨 UI/UX Design
+### 🌐 Frameworks & Web Development
 
-<a href="https://www.figma.com/" target="_blank">
-  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-</a>
+<div align="center">
 
-* User Interface (UI) Design
-* User Experience (UX) Fundamentals
-* Responsive Web Design
-* Wireframing and Prototyping
+<img src="https://skillicons.dev/icons?i=dotnet,wordpress,php&perline=6" alt="Web development technologies"/>
+
+</div>
+
+### 🎨 Design & Development Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=figma,git,github,vscode,visualstudio&perline=6" alt="Design and development tools"/>
+
+</div>
 
 ### 🗄️ Databases — Currently Learning
 
-<a href="https://www.mysql.com/" target="_blank">
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-Learning-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-</a>
-<a href="https://www.postgresql.org/" target="_blank">
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-Learning-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-</a>
-<a href="https://www.sqlite.org/" target="_blank">
-  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-Learning-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
-</a>
+<div align="center">
 
-### ⚙️ Tools & Platforms
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&perline=6" alt="Database technologies"/>
 
-<a href="https://git-scm.com/" target="_blank">
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-</a>
-<a href="https://github.com/amires996" target="_blank">
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-<a href="https://code.visualstudio.com/" target="_blank">
-  <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-</a>
-<a href="https://visualstudio.microsoft.com/" target="_blank">
-  <img alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white">
-</a>
-<a href="https://www.linux.org/" target="_blank">
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-</a>
-<a href="https://www.microsoft.com/windows" target="_blank">
-  <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white">
-</a>
+</div>
+
+### 🐧 Operating Systems
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,windows&perline=6" alt="Operating systems"/>
+
+</div>
 
 ---
 
-## 🐍 GitHub Contribution Snake
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/amires996/amires996/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
-</p>
+<div align="center">
 
----
+<a href="https://github.com/amires996">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=amires996&show_icons=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9&include_all_commits=true" alt="GitHub statistics"/>
+</a>
+<a href="https://github.com/amires996">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amires996&layout=compact&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&langs_count=8" alt="Most used languages"/>
+</a>
 
-## 🔥 GitHub Contribution Streak
+<br/><br/>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=amires996&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Contribution Streak">
-</p>
+<a href="https://github.com/amires996">
+<img width="95%" src="https://streak-stats.demolab.com?user=amires996&theme=transparent&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=C9D1D9&dates=8B949E" alt="GitHub streak statistics"/>
+</a>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amires996&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Stats">
-</p>
+</div>
 
 ---
 
-## 📚 Most Used Languages
+## 📈 Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amires996&theme=github_dark&hide_border=true&layout=compact&langs_count=8" alt="Most Used Languages">
-</p>
+<div align="center">
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=amires996&bg_color=0d1117&color=38bdf8&line=0077ff&point=ffffff&area=true&hide_border=true&custom_title=My%20Contribution%20Graph" alt="GitHub contribution graph"/>
+
+</div>
+
+---
+
+## 🎯 What I'm Working On
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ Software Development
+
+* Building applications with C# and .NET.
+* Improving code quality.
+* Learning software architecture.
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Web Development
+
+* Creating modern websites.
+* Exploring responsive design.
+* Improving user experience.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🐧 Linux & Open Source
+
+* Exploring Linux environments.
+* Customizing developer workflows.
+* Learning from open-source projects.
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 Continuous Learning
+
+* Improving Python and JavaScript.
+* Learning C and databases.
+* Exploring new technologies.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/amires996?tab=repositories">
+<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=amires996&repo=escode&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&icon_color=38bdf8" alt="EsCode project card"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/amires996?tab=repositories">
+<img src="https://img.shields.io/badge/Explore%20My%20Repositories-0077ff?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
+</a>
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="mailto:eskandari.am68@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://www.instagram.com/amiresk996/">
+<img src="https://img.shields.io/badge/Instagram-amiresk996-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="https://t.me/amires996">
+<img src="https://img.shields.io/badge/Telegram-amires996-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+</a>
+<a href="https://github.com/amires996">
+<img src="https://img.shields.io/badge/GitHub-amires996-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<br/><br/>
+
+**Have an idea or an interesting project? Let's connect!**
+
+</div>
 
 ---
 
 <div align="center">
 
-### 💡 Keep Learning. Keep Building.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0077ff,50:171717,100:050505" alt="Animated footer"/>
 
-**Think creatively. Code consistently. Build something meaningful.**
+**Amir Mohammad Eskandari**
+
+<sub>💙 Code • Create • Learn • Repeat</sub>
 
 </div>
