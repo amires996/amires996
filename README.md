@@ -1,160 +1,208 @@
+<!--
+    AMIR MOHAMMAD ESKANDARI
+    GitHub Profile README
+    Design: Midnight / Electric Blue / Minimal Engineering
+-->
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,40:171717,100:0077ff&text=Amir%20Mohammad%20Eskandari&fontColor=ffffff&fontSize=36&fontAlignY=38&desc=Developer%20%7C%20Designer%20%7C%20Problem%20Solver&descAlignY=58&descSize=16&animation=fadeIn" alt="Animated profile header"/>
-
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=700&height=55&lines=Building+ideas+into+real+projects;C%23+%7C+.NET+%7C+Python+%7C+JavaScript;Web+Development+%7C+UI%2FUX+Design;Always+Learning.+Always+Building." alt="Typing animation"/>
+<a href="https://github.com/amires996">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,35:0F172A,70:075985,100:0284C7&text=Amir%20Mohammad%20Eskandari&fontColor=F8FAFC&fontSize=37&fontAlignY=36&desc=SOFTWARE%20DEVELOPER%20%20%7C%20%20CREATIVE%20ENGINEER&descSize=14&descAlignY=56&animation=fadeIn&stroke=38BDF8&strokeWidth=1" alt="Amir Mohammad Eskandari — Developer"/>
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=amires996&style=for-the-badge&color=0077ff&label=PROFILE+VIEWS" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/amires996?style=for-the-badge&color=171717&labelColor=0077ff&logo=github&label=FOLLOWERS" alt="GitHub followers"/>
-<img src="https://img.shields.io/github/stars/amires996?style=for-the-badge&color=171717&labelColor=0077ff&logo=github&label=STARS" alt="GitHub stars"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2600&pause=850&color=38BDF8&center=true&vCenter=true&width=650&height=60&lines=I+build+things+that+solve+real+problems.;Software+%2F%2F+Web+%2F%2F+Design+%2F%2F+Linux;Turning+ideas+into+working+products.;Learn.+Build.+Improve.+Repeat." alt="Animated developer introduction"/>
+
+<br/>
+
+<a href="https://github.com/amires996">
+  <img src="https://img.shields.io/badge/GitHub-amires996-0B1220?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=111827" alt="GitHub"/>
+</a>
+<a href="mailto:eskandari.am68@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-0B1220?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=111827" alt="Email"/>
+</a>
+<a href="https://www.instagram.com/amiresk996/">
+  <img src="https://img.shields.io/badge/Instagram-amiresk996-0B1220?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=111827" alt="Instagram"/>
+</a>
+<a href="https://t.me/amires996">
+  <img src="https://img.shields.io/badge/Telegram-amires996-0B1220?style=for-the-badge&logo=telegram&logoColor=26A5E4&labelColor=111827" alt="Telegram"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=amires996&style=flat-square&color=0284C7&label=PROFILE+VIEWS" alt="Profile views"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+`SOFTWARE DEVELOPMENT`   ·   `WEB TECHNOLOGIES`   ·   `UI/UX`   ·   `LINUX`
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## `01` — Engineering Mindset
 
-<img align="right" alt="Coding animation" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer coding animation"/>
 
-Hi! I'm **Amir Mohammad Eskandari**, a developer passionate about building useful software, creating modern digital experiences, and learning new technologies.
+I'm **Amir Mohammad Eskandari** — a developer interested in software engineering, web technologies, interface design, and building practical digital products.
 
-* 💻 Focused on software and web development.
-* ⚙️ Experienced in C# and its development ecosystem.
-* 🐍 Working with Python and JavaScript.
-* 🎨 Interested in UI/UX design and modern interfaces.
-* 🐧 Exploring Linux and open-source technologies.
-* 🚀 Turning ideas into practical projects.
-* 📚 Currently learning C and database technologies.
+I enjoy understanding how things work, experimenting with technologies, and turning ideas into projects.
+
+* **Software:** C# and the .NET ecosystem.
+* **Programming:** Python, JavaScript, and C.
+* **Web:** HTML, CSS, and WordPress.
+* **Design:** UI/UX and interface prototyping with Figma.
+* **Environment:** Linux, Windows, Git, and GitHub.
+* **Mindset:** Keep learning, build consistently, and improve through practice.
 
 <br clear="right"/>
 
 <div align="center">
 
-*"Great things are built one line of code at a time."*
+> **Think clearly. Build carefully. Keep improving.**
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
-
-### 💻 Programming Languages
+## `02` — Technology Matrix
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,python,js,c,html,css&perline=6" alt="Programming languages"/>
+### Languages
+
+<img src="https://skillicons.dev/icons?i=cs,python,js,html,css,c&theme=dark" alt="Programming languages"/>
+
+<br/>
+
+### Frameworks & Platforms
+
+<img src="https://skillicons.dev/icons?i=dotnet,wordpress,php&theme=dark" alt="Frameworks and platforms"/>
+
+<br/>
+
+### Engineering Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma&theme=dark" alt="Engineering and design tools"/>
+
+<br/>
+
+### Operating Systems
+
+<img src="https://skillicons.dev/icons?i=linux,windows&theme=dark" alt="Operating systems"/>
 
 </div>
 
-### 🌐 Frameworks & Web Development
+<details>
+<summary><b>🧩 Technologies I'm exploring</b></summary>
 
-<div align="center">
+<br/>
 
-<img src="https://skillicons.dev/icons?i=dotnet,wordpress,php&perline=6" alt="Web development technologies"/>
+* C programming fundamentals
+* Relational database concepts
+* MySQL
+* PostgreSQL
+* SQLite
+* Better software architecture and development practices
 
-</div>
-
-### 🎨 Design & Development Tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=figma,git,github,vscode,visualstudio&perline=6" alt="Design and development tools"/>
-
-</div>
-
-### 🗄️ Databases — Currently Learning
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&perline=6" alt="Database technologies"/>
-
-</div>
-
-### 🐧 Operating Systems
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=linux,windows&perline=6" alt="Operating systems"/>
-
-</div>
+</details>
 
 ---
 
-## 📊 GitHub Analytics
+## `03` — GitHub Intelligence
 
 <div align="center">
 
 <a href="https://github.com/amires996">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=amires996&show_icons=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9&include_all_commits=true" alt="GitHub statistics"/>
-</a>
-<a href="https://github.com/amires996">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amires996&layout=compact&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&langs_count=8" alt="Most used languages"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=amires996&show_icons=true&hide_border=true&bg_color=0B1220&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1&rank_icon=github&include_all_commits=true" alt="GitHub profile statistics"/>
+</a><a href="https://github.com/amires996">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amires996&layout=compact&hide_border=true&bg_color=0B1220&title_color=38BDF8&text_color=CBD5E1&langs_count=8" alt="Most used languages"/>
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/amires996">
-<img width="95%" src="https://streak-stats.demolab.com?user=amires996&theme=transparent&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=C9D1D9&dates=8B949E" alt="GitHub streak statistics"/>
+  <img width="90%" src="https://streak-stats.demolab.com?user=amires996&theme=transparent&hide_border=true&background=0B1220&ring=38BDF8&fire=60A5FA&currStreakLabel=38BDF8&sideLabels=CBD5E1&dates=94A3B8" alt="Contribution streak"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/amires996">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=amires996&bg_color=0B1220&color=CBD5E1&line=38BDF8&point=FFFFFF&area=true&area_color=075985&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity"/>
 </a>
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## `04` — Selected Work
 
 <div align="center">
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=amires996&bg_color=0d1117&color=38bdf8&line=0077ff&point=ffffff&area=true&hide_border=true&custom_title=My%20Contribution%20Graph" alt="GitHub contribution graph"/>
+<a href="https://github.com/amires996?tab=repositories">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=amires996&repo=escode&hide_border=true&bg_color=0B1220&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1" alt="EsCode repository card"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/amires996?tab=repositories">
+  <img src="https://img.shields.io/badge/VIEW_ALL_PROJECTS-38BDF8?style=for-the-badge&logo=github&logoColor=0B1220" alt="View all repositories"/>
+</a>
 
 </div>
 
+<details>
+<summary><b>🚀 What makes a project worth building?</b></summary>
+
+<br/>
+
+* Solves a real problem.
+* Has a clear purpose and readable structure.
+* Offers a thoughtful user experience.
+* Is documented well enough for others to understand.
+* Improves through testing, feedback, and iteration.
+
+</details>
+
 ---
 
-## 🎯 What I'm Working On
+## `05` — Current Direction
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ⚙️ Software Development
+### ⚙️ Software Engineering
 
-* Building applications with C# and .NET.
-* Improving code quality.
-* Learning software architecture.
+Building a stronger foundation in application development, maintainable code, and the .NET ecosystem.
 
 </td>
 <td width="50%" valign="top">
 
-### 🌐 Web Development
+### 🌐 Web Experiences
 
-* Creating modern websites.
-* Exploring responsive design.
-* Improving user experience.
+Exploring modern websites, interface design, responsive layouts, and practical web projects.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🐧 Linux & Open Source
+### 🐧 Linux & Systems
 
-* Exploring Linux environments.
-* Customizing developer workflows.
-* Learning from open-source projects.
+Learning more about Linux environments, developer tooling, and efficient workflows.
 
 </td>
 <td width="50%" valign="top">
 
 ### 📚 Continuous Learning
 
-* Improving Python and JavaScript.
-* Learning C and databases.
-* Exploring new technologies.
+Improving programming fundamentals and exploring databases and new technologies through practice.
 
 </td>
 </tr>
@@ -162,55 +210,58 @@ Hi! I'm **Amir Mohammad Eskandari**, a developer passionate about building usefu
 
 ---
 
-## 🚀 Featured Projects
+## `06` — Beyond the Code
 
 <div align="center">
 
-<a href="https://github.com/amires996?tab=repositories">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=amires996&repo=escode&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&icon_color=38bdf8" alt="EsCode project card"/>
-</a>
+<img src="https://img.shields.io/badge/BUILD-Useful%20Things-0B1220?style=for-the-badge&labelColor=075985" alt="Build useful things"/>
+<img src="https://img.shields.io/badge/LEARN-Every%20Day-0B1220?style=for-the-badge&labelColor=075985" alt="Learn every day"/>
+<img src="https://img.shields.io/badge/FOCUS-Quality%20%26%20Growth-0B1220?style=for-the-badge&labelColor=075985" alt="Focus on quality"/>
 
-<br/>
+<br/><br/>
 
-<a href="https://github.com/amires996?tab=repositories">
-<img src="https://img.shields.io/badge/Explore%20My%20Repositories-0077ff?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
-</a>
+*The goal isn't just to write code — it's to create something meaningful.*
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## `07` — Let's Connect
 
 <div align="center">
 
 <a href="mailto:eskandari.am68@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-eskandari.am68%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/amires996">
+  <img src="https://img.shields.io/badge/GitHub-amires996-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://www.instagram.com/amiresk996/">
-<img src="https://img.shields.io/badge/Instagram-amiresk996-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <img src="https://img.shields.io/badge/Instagram-amiresk996-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 <a href="https://t.me/amires996">
-<img src="https://img.shields.io/badge/Telegram-amires996-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-</a>
-<a href="https://github.com/amires996">
-<img src="https://img.shields.io/badge/GitHub-amires996-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Telegram-amires996-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
 
 <br/><br/>
 
-**Have an idea or an interesting project? Let's connect!**
+**Open to ideas, interesting projects, and opportunities to learn and build.**
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0077ff,50:171717,100:050505" alt="Animated footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:0284C7,50:0F172A,100:020617" alt="Animated footer"/>
 
-**Amir Mohammad Eskandari**
+<sub>Designed and maintained by <b>Amir Mohammad Eskandari</b></sub>
 
-<sub>💙 Code • Create • Learn • Repeat</sub>
+<br/>
+
+<sub><code>CODE WITH PURPOSE · BUILD WITH PASSION</code></sub>
 
 </div>
