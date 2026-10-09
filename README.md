@@ -30,13 +30,20 @@
 ## 🌐 Connect with me 🔗
 
 <p align="left">
-  <a href="https://github.com/amires996" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-amires996-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <a href="mailto:eskandari.am68@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="mailto:eskandari.am68@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  <a href="https://www.instagram.com/amiresk996/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@amiresk996-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://t.me/amires996" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-@amires996-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+  <a href="https://github.com/amires996" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-@amires996-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
+
 
 ---
 
