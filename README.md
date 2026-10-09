@@ -1,18 +1,14 @@
 <div align="right">
-
 <a href="README-fa.md">
-  <img src="https://img.shields.io/badge/🇮🇷%20نسخه%20فارسی-Read%20in%20Persian-239B56?style=for-the-badge" alt="Read in Persian">
+<img src="https://img.shields.io/badge/🇮🇷%20Persian-Read%20in%20Persian-239B56?style=for-the-badge" alt="Persian Version">
 </a>
-
 </div>
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=220&section=header&text=Amir%20Mohammad%20Eskandari&fontSize=34&fontColor=FFFFFF&fontAlignY=38&desc=Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descAlignY=58&descSize=16" width="100%" alt="Profile Header">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+profile!;C%23+%26+.NET+Developer;Building+web+experiences;Always+learning%2C+always+building." alt="Typing SVG">
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+profile!;C%23+%26+.NET+Developer;Building+web+experiences;Always+learning%2C+always+building." alt="Typing SVG">
 
 <br>
 
@@ -29,15 +25,13 @@
 
 Hi! I'm **Amir Mohammad Eskandari**, a developer interested in software engineering, web development, UI/UX design, and Linux.
 
-I enjoy turning ideas into practical projects, exploring new technologies, and continuously improving my development skills.
-
 * 💻 Interested in software development and web technologies
 * 🧩 Experienced with **C#** and working with **.NET**
 * 🌐 Building websites with HTML, CSS, JavaScript, and WordPress
 * 🎨 Exploring UI/UX design with Figma
 * 🐧 Interested in Linux, Windows, and development environments
 * 📚 Learning new technologies through hands-on projects
-* 🎯 Focused on writing better code and building useful products
+* 🎯 Focused on building useful products and improving my skills
 
 > **My philosophy:** Learn continuously, build consistently, and improve every day.
 
@@ -48,39 +42,39 @@ I enjoy turning ideas into practical projects, exploring new technologies, and c
 ### Programming Languages
 
 <p>
-  <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/C-Learning-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C — Learning">
+<img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+<img src="https://img.shields.io/badge/C-Learning-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C">
 </p>
 
 ### Web Development
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
-  <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
+<img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor">
 </p>
 
 ### Design & Development Tools
 
 <p>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+<img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
 </p>
 
 ### Currently Learning
 
 <p>
-  <img src="https://img.shields.io/badge/C-Programming-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C">
-  <img src="https://img.shields.io/badge/MySQL-Learning-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/PostgreSQL-Learning-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/SQLite-Learning-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite">
+<img src="https://img.shields.io/badge/C-Programming-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C">
+<img src="https://img.shields.io/badge/MySQL-Learning-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+<img src="https://img.shields.io/badge/PostgreSQL-Learning-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/SQLite-Learning-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite">
 </p>
 
 ---
@@ -90,11 +84,11 @@ I enjoy turning ideas into practical projects, exploring new technologies, and c
 <div align="center">
 
 <a href="https://github.com/amires996">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=amires996&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=amires996&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats">
 </a>
 
 <a href="https://github.com/amires996">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amires996&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amires996&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
 </a>
 
 <br>
@@ -115,29 +109,25 @@ I enjoy turning ideas into practical projects, exploring new technologies, and c
 
 ---
 
-## 🚀 What I'm Working Toward
+## 🚀 My Goals
 
-* Building practical software projects
-* Improving my C# and .NET development skills
-* Creating modern and responsive websites
-* Exploring software architecture and databases
-* Developing my UI/UX design skills
-* Contributing to open-source projects
+* Build practical software projects
+* Improve my C# and .NET skills
+* Create modern, responsive websites
+* Explore software architecture and databases
+* Develop my UI/UX design skills
+* Contribute to open-source projects
 
 ---
 
 ## 📫 Let's Connect
 
-Have an idea, a project, or an opportunity to collaborate?
-
-Feel free to reach out.
+Have an idea, a project, or an opportunity to collaborate? Feel free to reach out.
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/Explore%20My%20Projects-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/amires996)
 [![Email](https://img.shields.io/badge/Send%20Me%20an%20Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:eskandari.am68@gmail.com)
-
-<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:0F172A&height=120&section=footer" width="100%" alt="Footer">
 
